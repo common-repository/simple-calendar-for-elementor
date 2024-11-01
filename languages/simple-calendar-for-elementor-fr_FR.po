@@ -1,0 +1,504 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-11-10 09:32+0100\n"
+"PO-Revision-Date: 2023-11-10 09:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: widget\n"
+"X-Poedit-SearchPath-1: miga_simple_calendar.php\n"
+
+#: miga_simple_calendar.php:168 miga_simple_calendar.php:169
+#: widget/elementor_calendar.php:34
+msgid "Simple Calendar"
+msgstr "Simple Calendar"
+
+#: miga_simple_calendar.php:197
+msgid "Calendars"
+msgstr ""
+
+#: miga_simple_calendar.php:200 widget/includes/backend_events.php:11
+msgid "Events"
+msgstr ""
+
+#: miga_simple_calendar.php:203
+msgid "Status/Classes"
+msgstr ""
+
+#: widget/elementor_calendar.php:50 widget/elementor_calendar_legend.php:33
+msgid "Content"
+msgstr ""
+
+#: widget/elementor_calendar.php:69 widget/includes/backend_calendars.php:31
+msgid "Calendar"
+msgstr ""
+
+#: widget/elementor_calendar.php:76
+msgid "Layout"
+msgstr ""
+
+#: widget/elementor_calendar.php:80
+msgid "Full width"
+msgstr ""
+
+#: widget/elementor_calendar.php:86 widget/elementor_calendar_legend.php:50
+msgid "Squared days"
+msgstr ""
+
+#: widget/elementor_calendar.php:88 widget/elementor_calendar.php:90
+#: widget/elementor_calendar.php:102 widget/elementor_calendar.php:111
+#: widget/elementor_calendar.php:112 widget/elementor_calendar.php:123
+#: widget/elementor_calendar.php:613 widget/elementor_calendar.php:614
+#: widget/elementor_calendar.php:642 widget/elementor_calendar_legend.php:52
+#: widget/elementor_calendar_legend.php:54
+msgid "yes"
+msgstr ""
+
+#: widget/elementor_calendar.php:89 widget/elementor_calendar.php:91
+#: widget/elementor_calendar.php:103 widget/elementor_calendar_legend.php:53
+#: widget/elementor_calendar_legend.php:55
+msgid "no"
+msgstr ""
+
+#: widget/elementor_calendar.php:98
+msgid "Show legend"
+msgstr ""
+
+#: widget/elementor_calendar.php:100 widget/elementor_calendar.php:109
+#: widget/elementor_calendar.php:205 widget/elementor_calendar_legend.php:42
+msgid "Show"
+msgstr ""
+
+#: widget/elementor_calendar.php:101 widget/elementor_calendar.php:110
+#: widget/elementor_calendar.php:206 widget/elementor_calendar_legend.php:43
+msgid "Hide"
+msgstr ""
+
+#: widget/elementor_calendar.php:107
+msgid "Show today button"
+msgstr ""
+
+#: widget/elementor_calendar.php:116
+msgid "Legend position"
+msgstr ""
+
+#: widget/elementor_calendar.php:119
+msgid "Side"
+msgstr ""
+
+#: widget/elementor_calendar.php:120
+msgid "Below"
+msgstr ""
+
+#: widget/elementor_calendar.php:132
+msgid "Day height"
+msgstr ""
+
+#: widget/elementor_calendar.php:154
+msgid "Day width"
+msgstr ""
+
+#: widget/elementor_calendar.php:180
+msgid "Day gap"
+msgstr ""
+
+#: widget/elementor_calendar.php:203
+msgid "Show a fixed month"
+msgstr ""
+
+#: widget/elementor_calendar.php:215
+msgid "Month"
+msgstr ""
+
+#: widget/elementor_calendar.php:217
+msgid "Changes might only be visible in the frontend"
+msgstr ""
+
+#: widget/elementor_calendar.php:220
+msgid "Januar"
+msgstr ""
+
+#: widget/elementor_calendar.php:221
+msgid "February"
+msgstr ""
+
+#: widget/elementor_calendar.php:222
+msgid "March"
+msgstr ""
+
+#: widget/elementor_calendar.php:223
+msgid "April"
+msgstr ""
+
+#: widget/elementor_calendar.php:224 widget/includes/Calendar.class.php:69
+msgid "May"
+msgstr "Mai"
+
+#: widget/elementor_calendar.php:225
+msgid "June"
+msgstr ""
+
+#: widget/elementor_calendar.php:226
+msgid "July"
+msgstr ""
+
+#: widget/elementor_calendar.php:227
+msgid "August"
+msgstr ""
+
+#: widget/elementor_calendar.php:228
+msgid "September"
+msgstr ""
+
+#: widget/elementor_calendar.php:229
+msgid "October"
+msgstr ""
+
+#: widget/elementor_calendar.php:230
+msgid "November"
+msgstr ""
+
+#: widget/elementor_calendar.php:231
+msgid "December"
+msgstr ""
+
+#: widget/elementor_calendar.php:242
+msgid "Year"
+msgstr ""
+
+#: widget/elementor_calendar.php:245
+msgid "2023"
+msgstr ""
+
+#: widget/elementor_calendar.php:256
+msgid "Default styles"
+msgstr ""
+
+#: widget/elementor_calendar.php:264
+msgid "Top/bottom line"
+msgstr ""
+
+#: widget/elementor_calendar.php:275 widget/elementor_calendar.php:400
+#: widget/elementor_calendar.php:432
+msgid "Background color"
+msgstr ""
+
+#: widget/elementor_calendar.php:286
+msgid "Header background color"
+msgstr ""
+
+#: widget/elementor_calendar.php:296
+msgid "Header text color"
+msgstr ""
+
+#: widget/elementor_calendar.php:306
+msgid "Header text color (hover)"
+msgstr ""
+
+#: widget/elementor_calendar.php:336
+msgid "Weekdays"
+msgstr ""
+
+#: widget/elementor_calendar.php:350
+msgid "Days background color"
+msgstr ""
+
+#: widget/elementor_calendar.php:360
+msgid "Days text color"
+msgstr ""
+
+#: widget/elementor_calendar.php:372
+msgid "Prev/Next styles"
+msgstr ""
+
+#: widget/elementor_calendar.php:380
+msgid "Arrow color"
+msgstr ""
+
+#: widget/elementor_calendar.php:413
+msgid "Today day styles"
+msgstr ""
+
+#: widget/elementor_calendar.php:421
+msgid "Text color"
+msgstr ""
+
+#: widget/elementor_calendar.php:453
+msgid "Today button styles"
+msgstr ""
+
+#: widget/elementor_calendar.php:469
+msgid "Today background color"
+msgstr ""
+
+#: widget/elementor_calendar.php:479
+msgid "Today background color (hover)"
+msgstr ""
+
+#: widget/elementor_calendar.php:490
+msgid "Today color"
+msgstr ""
+
+#: widget/elementor_calendar.php:501
+msgid "Today color (hover)"
+msgstr ""
+
+#: widget/elementor_calendar.php:514
+msgid "Default days"
+msgstr ""
+
+#: widget/elementor_calendar.php:522
+msgid "Day font color"
+msgstr ""
+
+#: widget/elementor_calendar.php:533
+msgid "Background color day"
+msgstr ""
+
+#: widget/elementor_calendar.php:543
+msgid "Background color empty day"
+msgstr ""
+
+#: widget/elementor_calendar.php:556
+msgid "Days with status"
+msgstr ""
+
+#: widget/elementor_calendar.php:564
+msgid "Background Color"
+msgstr ""
+
+#: widget/elementor_calendar.php:574
+msgid "Background Color (second)"
+msgstr ""
+
+#: widget/elementor_calendar.php:585
+msgid "Font Color with status"
+msgstr ""
+
+#: widget/elementor_calendar.php:656 widget/elementor_calendar_legend.php:87
+msgid "Legend"
+msgstr ""
+
+#: widget/elementor_calendar_legend.php:17
+msgid "Simple Calendar (Legend)"
+msgstr "Simple Calendar (Legende)"
+
+#: widget/elementor_calendar_legend.php:40
+msgid "Show Title"
+msgstr ""
+
+#: widget/includes/Calendar.class.php:65
+msgid "Jan"
+msgstr "Janv."
+
+#: widget/includes/Calendar.class.php:66
+msgid "Feb"
+msgstr "Févr."
+
+#: widget/includes/Calendar.class.php:67
+msgid "Mar"
+msgstr "Mars"
+
+#: widget/includes/Calendar.class.php:68
+msgid "Apr"
+msgstr "Avril"
+
+#: widget/includes/Calendar.class.php:70
+msgid "Jun"
+msgstr "Juin"
+
+#: widget/includes/Calendar.class.php:71
+msgid "Jul"
+msgstr "Juil."
+
+#: widget/includes/Calendar.class.php:72
+msgid "Aug"
+msgstr "Août"
+
+#: widget/includes/Calendar.class.php:73
+msgid "Sep"
+msgstr "Sept."
+
+#: widget/includes/Calendar.class.php:74
+msgid "Oct"
+msgstr "Oct."
+
+#: widget/includes/Calendar.class.php:75
+msgid "Nov"
+msgstr "Nov."
+
+#: widget/includes/Calendar.class.php:76
+msgid "Dec"
+msgstr "Déc."
+
+#: widget/includes/Calendar.class.php:129
+msgid "Mo"
+msgstr "Lu"
+
+#: widget/includes/Calendar.class.php:132
+msgid "Tu"
+msgstr "Ma"
+
+#: widget/includes/Calendar.class.php:135
+msgid "We"
+msgstr "Me"
+
+#: widget/includes/Calendar.class.php:138
+msgid "Th"
+msgstr "Je"
+
+#: widget/includes/Calendar.class.php:141
+msgid "Fr"
+msgstr "Ve"
+
+#: widget/includes/Calendar.class.php:144
+msgid "Sa"
+msgstr "Sa"
+
+#: widget/includes/Calendar.class.php:147
+msgid "Su"
+msgstr "Di"
+
+#: widget/includes/Calendar.class.php:181
+#: widget/includes/Calendar.class.php:185
+msgid "today"
+msgstr "aujourd'hui"
+
+#: widget/includes/backend_calendars.php:25
+msgid "Add calendar"
+msgstr ""
+
+#: widget/includes/backend_calendars.php:26
+#: widget/includes/backend_status.php:72
+msgid "add"
+msgstr ""
+
+#: widget/includes/backend_calendars.php:32
+msgid ""
+"Create different calendars you can select in the Elementor Calendar widget. "
+"Each calendar can have it's own events."
+msgstr ""
+
+#: widget/includes/backend_events.php:12
+msgid ""
+"Select a calendar and add an event to a day. To add or change a status go to "
+"the <b>Status/Classes</b> tab."
+msgstr ""
+
+#: widget/includes/backend_functions.php:59
+msgid "Current calendar"
+msgstr ""
+
+#: widget/includes/backend_functions.php:214
+msgid "Day"
+msgstr ""
+
+#: widget/includes/backend_functions.php:215
+msgid "Status"
+msgstr ""
+
+#: widget/includes/backend_functions.php:269
+msgid "No calendar found. Please add a calendar first."
+msgstr ""
+
+#: widget/includes/backend_status.php:20
+msgid "Visible"
+msgstr ""
+
+#: widget/includes/backend_status.php:21
+msgid "Status/Name"
+msgstr ""
+
+#: widget/includes/backend_status.php:22
+msgid "CSS class"
+msgstr ""
+
+#: widget/includes/backend_status.php:48
+msgid "update"
+msgstr ""
+
+#: widget/includes/backend_status.php:55
+msgid "delete"
+msgstr ""
+
+#: widget/includes/backend_status.php:63
+msgid "Add new status"
+msgstr ""
+
+#: widget/includes/backend_status.php:65
+msgid "Add status"
+msgstr ""
+
+#: widget/includes/backend_status.php:69
+msgid "Add class"
+msgstr ""
+
+#: widget/includes/backend_status.php:77
+msgid "Status and classes"
+msgstr ""
+
+#: widget/includes/backend_status.php:78
+msgid ""
+"Here you define the status options you can pick for each day. The status "
+"name will be visible in the legend and the class will be added to the day."
+"<br/><b>half_blocked</b> and <b>blocked</b> are deafult options."
+msgstr ""
+
+#: widget/includes/backend_status.php:79
+msgid "Add new status/classes"
+msgstr ""
+
+#: widget/includes/backend_status.php:80
+msgid ""
+"Below the table you can add a new status name and a class. Go to Appearance "
+"- Customizer you can set the styles for that class.<br/>Use <code>."
+"calendar__day.your_class {}; .calendar__legend_item.your_class {};</code> to "
+"set your styles."
+msgstr ""
+
+#: widget/includes/custom_table.php:38
+msgid "Delete"
+msgstr ""
+
+#: widget/includes/custom_table.php:67
+msgid "Title"
+msgstr ""
+
+#: widget/includes/legend_styles.php:3
+msgid "Legend title style"
+msgstr ""
+
+#: widget/includes/legend_styles.php:18
+msgid "Title Color"
+msgstr ""
+
+#: widget/includes/legend_styles.php:29
+msgid "Legend style"
+msgstr ""
+
+#: widget/includes/legend_styles.php:44
+msgid "Text Color"
+msgstr ""
+
+#~ msgid "So"
+#~ msgstr "Di"
+
+#~ msgid "Color schema"
+#~ msgstr "Farbschema"
+
+#~ msgid "Red"
+#~ msgstr "Rot"
+
+#~ msgid "Green"
+#~ msgstr "Grün"
+
+#~ msgid "Blue"
+#~ msgstr "Blau"
